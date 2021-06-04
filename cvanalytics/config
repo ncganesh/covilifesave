@@ -1,0 +1,17 @@
+{
+  "elastichost": 7050,
+  "max_file_size(MB)": 5,
+  "note": "path properties are only applicable when s3_trigger is 0 (false)",
+  "s3_trigger": 0,
+  "path": "temp/"
+ }
+
+
+
+
+
+
+
+
+
+
