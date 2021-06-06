@@ -6,3 +6,5 @@ elasticsearch==7.13.0
 graphene==2.1.8
 graphene_mongo==0.2.13
 pandas==1.2.4
+pymongo[srv]==1.16.0
+
