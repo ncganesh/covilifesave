@@ -1,4 +1,4 @@
-# CoviLifeSave - Graph AI for Social Good  Search Offer Help  Save Lives.
+# CoviLifeSave - AI for Social Good  Search Offer Help  Save Lives.
 
 
 **PROBLEM**
